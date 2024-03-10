@@ -1,8 +1,10 @@
-import React from 'react'
-import * as d3 from 'd3'
+import React from 'react';
+import * as d3 from 'd3';
+
+const DATA = [];
 
 const LinePlot = () => {
-  return <div></div>
-}
+  return <div></div>;
+};
 
-export default LinePlot
+export default LinePlot;

@@ -1,6 +1,6 @@
-import React from 'react'
-import { FaBox, FaCircleUser, FaCaretDown } from 'react-icons/fa6'
-import Image from 'next/image'
+import React from 'react';
+import { FaBox, FaCircleUser, FaCaretDown } from 'react-icons/fa6';
+import Image from 'next/image';
 
 const Header = () => {
   return (
@@ -22,7 +22,7 @@ const Header = () => {
         <FaCaretDown />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

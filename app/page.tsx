@@ -1,4 +1,4 @@
-import LinePlot from '@/components/home/LinePlot'
+import LinePlot from '@/components/home/LinePlot';
 
 export default function Home() {
   return (
@@ -6,5 +6,5 @@ export default function Home() {
       <h1>Home Page</h1>
       <LinePlot />
     </main>
-  )
+  );
 }
